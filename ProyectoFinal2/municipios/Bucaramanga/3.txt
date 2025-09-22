@@ -1,0 +1,6 @@
+Información Relevante:
+productoFamoso:--------------------------
+personaFamosa: Pedro Gomez, Jaime Tarazona, Henry Florez Soler
+comidaPopular: Pepitoria, cabrito, hormigas culonas, 
+tamal Santandereano, mute y changua 
+actividadEconomica: Marroquineria, confeccion, sector avícola y agropecuario
