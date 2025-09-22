@@ -1,0 +1,1 @@
+Dado un número de 5 digitos devolver el orden inverso
